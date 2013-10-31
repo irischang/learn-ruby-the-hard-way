@@ -1,0 +1,3 @@
+Learning Ruby the hard way...
+
+http://ruby.learncodethehardway.org/book/
